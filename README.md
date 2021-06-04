@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gmaia1
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning about REST/API
-- 💞️ I’m looking to collaborate on put interestng things here
+- 💞️ I’m looking to collaborate on put interesting things here
 - 
 
 <!---
